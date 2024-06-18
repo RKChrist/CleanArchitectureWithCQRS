@@ -9,6 +9,8 @@ I will attempt to integrate this project with containerization and figure out, h
 ## Features that are going to be implemented
 
 - Auth. (Using an SSO with Docker / Kubernetes)
+  -- Using different policies
+- Implement CORS
 - 
 
 ### Requirements
